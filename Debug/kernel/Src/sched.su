@@ -1,0 +1,11 @@
+../kernel/Src/sched.c:19:6:init_fault	16	static
+../kernel/Src/sched.c:28:6:init_systick_timer	32	static
+../kernel/Src/sched.c:48:29:SysTick_Handler	0	static,ignoring_inline_asm
+../kernel/Src/sched.c:73:6:PendSV_Handler	4	static,ignoring_inline_asm
+../kernel/Src/sched.c:96:10:get_tick	4	static
+../kernel/Src/sched.c:100:6:systic_delay	24	static
+../kernel/Src/sched.c:109:6:sched_start	4	static,ignoring_inline_asm
+../kernel/Src/sched.c:131:6:call_sched	4	static
+../kernel/Src/sched.c:138:6:MemManage_Handler	4	static
+../kernel/Src/sched.c:142:6:BusFault_Handler	4	static
+../kernel/Src/sched.c:146:6:UsageFault_Handler	4	static

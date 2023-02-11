@@ -1,0 +1,4 @@
+../driver/Src/driver_timer.c:9:6:timer_init	16	static
+../driver/Src/driver_timer.c:23:6:pwm_init	16	static
+../driver/Src/driver_timer.c:64:6:duty	16	static
+../driver/Src/driver_timer.c:87:6:timer_enable	16	static

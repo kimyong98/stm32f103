@@ -1,0 +1,2 @@
+../driver/Src/driver_interrupt.c:9:6:irq_ctl	24	static
+../driver/Src/driver_interrupt.c:26:6:irq_prio_config	24	static

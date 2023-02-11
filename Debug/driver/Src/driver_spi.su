@@ -1,0 +1,7 @@
+../driver/Src/driver_spi.c:10:6:spi_clock_ctl	16	static
+../driver/Src/driver_spi.c:26:6:spi_init	16	static
+../driver/Src/driver_spi.c:86:6:spi_ctl	16	static
+../driver/Src/driver_spi.c:98:6:spi_send	24	static
+../driver/Src/driver_spi.c:121:6:spi_receive	24	static
+../driver/Src/driver_spi.c:144:6:spi_irq_ctl	16	static
+../driver/Src/driver_spi.c:156:6:spi_irq_prio_config	16	static

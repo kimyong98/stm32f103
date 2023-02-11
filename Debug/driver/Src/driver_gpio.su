@@ -1,0 +1,8 @@
+../driver/Src/driver_gpio.c:9:6:gpio_clock_ctl	16	static
+../driver/Src/driver_gpio.c:33:6:gpio_init	24	static
+../driver/Src/driver_gpio.c:226:6:gpio_deinit	16	static
+../driver/Src/driver_gpio.c:250:6:gpio_exti_config	24	static
+../driver/Src/driver_gpio.c:294:6:gpio_irq_init	24	static
+../driver/Src/driver_gpio.c:312:9:gpio_read_pin	16	static
+../driver/Src/driver_gpio.c:325:6:gpio_write_pin	16	static
+../driver/Src/driver_gpio.c:337:6:gpio_toggle_pin	16	static

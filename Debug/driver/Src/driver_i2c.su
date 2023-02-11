@@ -1,0 +1,5 @@
+../driver/Src/driver_i2c.c:8:6:i2c_clock_ctl	16	static
+../driver/Src/driver_i2c.c:20:6:i2c_master_init	24	static
+../driver/Src/driver_i2c.c:44:6:i2c_slave_init	24	static
+../driver/Src/driver_i2c.c:68:6:i2c_master_send_data	32	static
+../driver/Src/driver_i2c.c:98:6:i2c_master_receive	32	static

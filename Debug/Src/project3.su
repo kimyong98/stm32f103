@@ -1,0 +1,7 @@
+../Src/project3.c:12:6:go	16	static
+../Src/project3.c:48:6:down	16	static
+../Src/project3.c:89:6:left	16	static
+../Src/project3.c:115:6:right	16	static
+../Src/project3.c:140:5:main	40	static
+../Src/project3.c:231:6:servo_init	16	static
+../Src/project3.c:267:6:pwm	16	static
